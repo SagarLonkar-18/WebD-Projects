@@ -1,1 +1,1 @@
-
+In this project I have cloned the website of UltraEdit using HTML and CSS.
